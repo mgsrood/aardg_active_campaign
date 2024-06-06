@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Navigate to the right directory
+cd /Users/maxrood/werk/codering/aardg/projecten/active_campaign
+
 # Staging all changes
 git add .
 
