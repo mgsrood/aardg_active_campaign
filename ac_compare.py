@@ -20,3 +20,5 @@ customers_in_subscribers = customers_emails.intersection(subscribers_emails)
 print("Emails in zowel Prospects als Customers:", prospects_in_customers)
 print("Emails in zowel Prospects als Subscribers:", prospects_in_subscribers)
 print("Emails in zowel Customers als Subscribers:", customers_in_subscribers)
+
+# Hallo Hallo
